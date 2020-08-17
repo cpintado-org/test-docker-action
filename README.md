@@ -7,6 +7,6 @@ jobs:
   job1:
     runs-on: ubuntu-latest
     steps:
-    - uses: cpintado-org/test-docker-action/subdir@2.0
+    - uses: cpintado-org/test-docker-action-subdir/subdir@2.0
 ```
 
